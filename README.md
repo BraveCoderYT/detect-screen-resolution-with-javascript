@@ -1,0 +1,1 @@
+# detect-screen-resolution-with-javascript
